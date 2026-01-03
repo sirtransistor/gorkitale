@@ -11,7 +11,7 @@ TODO:
 - add kurban(adha) mechanism, (toriel; "anne keçi kurban edilecek").
 - add pray mechanism.
 - (idk but it's required)
-- the lore.
+- the lore.3
 
 | | | |
 |:---:|:---:|:---:|
