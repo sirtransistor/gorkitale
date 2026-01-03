@@ -23,7 +23,7 @@ TODO:
 
 Welcome to **Gorkitale 1.0 LTS**. This project simulates the experience of booting up an old-school Linux machine, complete with systemd boot logs and a TTY login screen.
 
-Beyond the terminal lies a surreal adventure. Log in, explore the system, and launch into a world where you must interact with mysterious characters and uncover the secrets of the "VibeCoded" kernel.
+Beyond the terminal lies a surreal adventure. Log in, explore the system, and launch into a world where you must interact with mysterious characters and uncover the secrets of the "VibeCoded" kernel.sds
 
 ## Features
 
